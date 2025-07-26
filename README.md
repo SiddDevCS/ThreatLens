@@ -11,13 +11,6 @@ A modern web application that fetches and displays the latest cybersecurity news
 - Server-side API route for fetching news
 - TypeScript for type safety
 
-## Tech Stack
-
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- RSS Parser
-
 ## Getting Started
 
 1. Clone the repository:
