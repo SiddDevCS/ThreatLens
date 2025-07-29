@@ -1,5 +1,6 @@
 import { NewsSource } from '@/types/news';
 
+// News sources here:
 export const NEWS_SOURCES: NewsSource[] = [
   {
     name: "The Hacker News",

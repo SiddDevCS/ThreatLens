@@ -1,17 +1,21 @@
-# Find the latest Cybersecurity News from trusted sources, within one click! - ThreatLens
+# Find the Latest Cybersecurity News from Trusted Sources, Within one Click! - ThreatLens
 
 This is a modern web application that fetches and displays the latest cybersecurity news from various trusted sources. Built with Next.js and Tailwind CSS.
 
-![TL Logo](./public/TL-Logo.png)
+<p align="center">
+  <img src="./public/TL-Logo.png" alt="TL Logo" width="400"/>
+</p>
 
 ## What does ThreatLens offer?
 
 - Real-time fetching of cybersecurity news from multiple sources
-(such as ...)
+(such as THN, Dark Reading, Bleeping Computer, CISA, etc..)
 - Responsive grid layout for news articles
 - Server-side API route for fetching news
 
 ## Getting Started
+
+You can access the live project here: [ThreatLens](https://threatlens-news.vercel.app/)
 
 1. Clone the repository:
 ```bash

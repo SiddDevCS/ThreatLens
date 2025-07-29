@@ -2,6 +2,7 @@ import { NEWS_SOURCES } from './news-sources';
 import { NewsArticle, NewsResponse } from '@/types/news';
 import Parser from 'rss-parser';
 
+// Custom feed type to handle optional fields
 interface CustomFeed {
   items: Array<{
     title?: string;
