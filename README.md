@@ -1,21 +1,21 @@
-# Cybersecurity News Web App
+# Find the latest Cybersecurity News from trusted sources, within one click! - ThreatLens
 
-A modern web application that fetches and displays the latest cybersecurity news from various trusted sources. Built with Next.js and Tailwind CSS.
+This is a modern web application that fetches and displays the latest cybersecurity news from various trusted sources. Built with Next.js and Tailwind CSS.
 
-## Features
+![TL Logo](./public/TL-Logo.png)
+
+## What does ThreatLens offer?
 
 - Real-time fetching of cybersecurity news from multiple sources
+(such as ...)
 - Responsive grid layout for news articles
-- Loading states and error handling
-- Clean and modern UI with Tailwind CSS
 - Server-side API route for fetching news
-- TypeScript for type safety
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/SiddDevCS/ThreatLens
 cd cybernews-web
 ```
 
@@ -30,14 +30,6 @@ npm run dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Deployment
-
-The application can be easily deployed to Vercel:
-
-1. Push your code to a GitHub repository
-2. Import the project in Vercel
-3. Deploy
 
 ## Project Structure
 
